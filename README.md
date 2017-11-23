@@ -1,8 +1,8 @@
 # test4
 ## FCFS算法
- 输入12选择单队列或者双队列
+ 输入12选择单队列或者双队列 <br>
 ![Image text](https://github.com/Karen2233/test4/blob/master/实验四/1.png)
- FCFS单队列
+ FCFS单队列<br>
 ![Image text](https://github.com/Karen2233/test4/blob/master/实验四/2.png)
  FCFS双队列
 ![Image text](https://github.com/Karen2233/test4/blob/master/实验四/3.png)
